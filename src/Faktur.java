@@ -1,4 +1,4 @@
-public class Faktur extends barang {
+public class Faktur extends barang { //inheritance
     private String nomorFaktur;
     private String namaPelanggan;
 

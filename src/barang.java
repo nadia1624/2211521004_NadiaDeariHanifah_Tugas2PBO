@@ -1,4 +1,4 @@
-public class barang implements HitungTotalBayar {
+public class barang implements HitungTotalBayar { //interface
     private String namaBarang;
     private double hargaBarang;
     private int jumlahBeli;
